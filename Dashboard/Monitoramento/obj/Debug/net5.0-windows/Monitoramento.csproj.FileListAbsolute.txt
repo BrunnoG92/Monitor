@@ -1,0 +1,27 @@
+C:\Users\Bruno\Desktop\Projeto Monitor\Dashboard\Monitoramento\bin\Debug\net5.0-windows\Monitoramento.exe
+C:\Users\Bruno\Desktop\Projeto Monitor\Dashboard\Monitoramento\bin\Debug\net5.0-windows\Monitoramento.deps.json
+C:\Users\Bruno\Desktop\Projeto Monitor\Dashboard\Monitoramento\bin\Debug\net5.0-windows\Monitoramento.runtimeconfig.json
+C:\Users\Bruno\Desktop\Projeto Monitor\Dashboard\Monitoramento\bin\Debug\net5.0-windows\Monitoramento.runtimeconfig.dev.json
+C:\Users\Bruno\Desktop\Projeto Monitor\Dashboard\Monitoramento\bin\Debug\net5.0-windows\Monitoramento.dll
+C:\Users\Bruno\Desktop\Projeto Monitor\Dashboard\Monitoramento\bin\Debug\net5.0-windows\ref\Monitoramento.dll
+C:\Users\Bruno\Desktop\Projeto Monitor\Dashboard\Monitoramento\bin\Debug\net5.0-windows\Monitoramento.pdb
+C:\Users\Bruno\Desktop\Projeto Monitor\Dashboard\Monitoramento\obj\Debug\net5.0-windows\Monitoramento.Properties.Resources.resources
+C:\Users\Bruno\Desktop\Projeto Monitor\Dashboard\Monitoramento\obj\Debug\net5.0-windows\Monitoramento.csproj.GenerateResource.cache
+C:\Users\Bruno\Desktop\Projeto Monitor\Dashboard\Monitoramento\obj\Debug\net5.0-windows\Monitoramento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Desktop\Projeto Monitor\Dashboard\Monitoramento\obj\Debug\net5.0-windows\Monitoramento.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\Projeto Monitor\Dashboard\Monitoramento\obj\Debug\net5.0-windows\Monitoramento.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\Projeto Monitor\Dashboard\Monitoramento\obj\Debug\net5.0-windows\Monitoramento.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Projeto Monitor\Dashboard\Monitoramento\obj\Debug\net5.0-windows\Monitoramento.dll
+C:\Users\Bruno\Desktop\Projeto Monitor\Dashboard\Monitoramento\obj\Debug\net5.0-windows\ref\Monitoramento.dll
+C:\Users\Bruno\Desktop\Projeto Monitor\Dashboard\Monitoramento\obj\Debug\net5.0-windows\Monitoramento.pdb
+C:\Users\Bruno\Desktop\Projeto Monitor\Dashboard\Monitoramento\obj\Debug\net5.0-windows\Monitoramento.genruntimeconfig.cache
+C:\Users\Bruno\Desktop\Projeto Monitor\Dashboard\Monitoramento\bin\Debug\net5.0-windows\MetroSet UI.dll
+C:\Users\Bruno\Desktop\Projeto Monitor\Dashboard\Monitoramento\obj\Debug\net5.0-windows\Monitoramento.csproj.CopyComplete
+C:\Users\Bruno\Desktop\Projeto Monitor\Dashboard\Monitoramento\obj\Debug\net5.0-windows\Monitoramento.Form_Dashboard.resources
+C:\Users\Bruno\Desktop\Projeto Monitor\Dashboard\Monitoramento\bin\Debug\net5.0-windows\ComponentFactory.Krypton.Design.dll
+C:\Users\Bruno\Desktop\Projeto Monitor\Dashboard\Monitoramento\bin\Debug\net5.0-windows\ComponentFactory.Krypton.Docking.dll
+C:\Users\Bruno\Desktop\Projeto Monitor\Dashboard\Monitoramento\bin\Debug\net5.0-windows\ComponentFactory.Krypton.Navigator.dll
+C:\Users\Bruno\Desktop\Projeto Monitor\Dashboard\Monitoramento\bin\Debug\net5.0-windows\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\Bruno\Desktop\Projeto Monitor\Dashboard\Monitoramento\bin\Debug\net5.0-windows\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Bruno\Desktop\Projeto Monitor\Dashboard\Monitoramento\bin\Debug\net5.0-windows\ComponentFactory.Krypton.Workspace.dll
+C:\Users\Bruno\Desktop\Projeto Monitor\Dashboard\Monitoramento\obj\Debug\net5.0-windows\Monitoramento.csproj.AssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Bruno\Desktop\Teste\Monitoramento.exe
+C:\Users\Bruno\Desktop\Teste\Monitoramento.dll
+C:\Users\Bruno\Desktop\Teste\Monitoramento.deps.json
+C:\Users\Bruno\Desktop\Teste\Monitoramento.runtimeconfig.json
+C:\Users\Bruno\Desktop\Teste\Monitoramento.pdb
+C:\Users\Bruno\Desktop\Teste\MetroSet UI.dll

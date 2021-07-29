@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "K4rFQXIV5VzoYjCd3cATkIQtfJkEvAcMnbGN6LdIUOWXOqDSwQOn2fx60TURJvASA0F6GP+ZWOFXET0itx48qw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bruno\\Desktop\\Projeto Monitor\\Dashboard\\Monitoramento\\Monitoramento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruno\\.nuget\\packages\\krypton.components.suite\\4.5.9\\krypton.components.suite.4.5.9.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\metroset_ui\\2.0.0\\metroset_ui.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Krypton.Components.Suite 4.5.9' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net5.0-windows7.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "Krypton.Components.Suite",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}
